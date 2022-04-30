@@ -1,7 +1,5 @@
 ## Overview
 
-This is the code for Decentralized Ride Sharing by Siraj Raval as part of the Dapp course. 
-
 
 # Stride-Tokens
 What if ride sharing was done via Smart Contracts?
